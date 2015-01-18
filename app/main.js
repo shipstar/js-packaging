@@ -1,3 +1,3 @@
-define(function () {
-  alert('hello')
+require(['foo'], function (foo) {
+  foo()
 })
