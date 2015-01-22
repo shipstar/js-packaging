@@ -20,7 +20,7 @@ I started creating how-to docs, but left them woefully incomplete. I'll try to c
 - See `webpack.config.js` for the configuration options
 - See [todo-flux](https://github.com/shipstar/todo-flux) for an example that uses the [react-hot-loader](http://gaearon.github.io/react-hot-loader/) I mentioned.
 
-# JSPM
+## JSPM
 - Has been around a while, but recently got really interesting
 - Uses its own package manager, but can pull from multiple sources (npm, bower, github, a vendor directory, etc)
 - [This video](http://glenmaddern.com/articles/javascript-in-2015) is what inspired me to look into it
